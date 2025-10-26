@@ -1,0 +1,15 @@
+# 🐍 Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+.venv/
+venv/
+
+# 📦 Editor / system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
